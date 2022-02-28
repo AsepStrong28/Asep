@@ -18,9 +18,9 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("RYUU NIH DECK")
+os.system("ASEP NIH DECK")
 print
-print "RYUU NIH DECK SENGGOL DONG"
+print "ASEP NIH DECK SENGGOL DONG"
 print
 ip = raw_input("IP  : ")
 port = input("Port       : ")
